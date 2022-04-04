@@ -8,7 +8,7 @@ Patient feedback on various pharmaceutical drugs in the form of ratings and comm
  The UCI ML Drug Review dataset provides patient reviews on specific drugs along with related conditions and a 10-star patient rating system reflecting overall patient satisfaction. The data was obtained by crawling online pharmaceutical review sites. This data was published in a study on sentiment analysis of drug experience over various facets. 
  
 This project will attempt to answer some research questions such as the following.
-•	Can the patient’s condition be predicted based on the reviews?
+•	What are the Top drugs for a given condition??
 •	Can the Drug rating be predicted based on the reviews?
 •	Can we determine if a review is positive or neutral or negative?
 
